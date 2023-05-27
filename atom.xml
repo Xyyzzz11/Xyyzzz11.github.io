@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Xyyzzz11.github.io</id>
+    <title>Yiyi Xie</title>
+    <updated>2023-05-27T02:23:20.559Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Xyyzzz11.github.io"/>
+    <link rel="self" href="https://Xyyzzz11.github.io/atom.xml"/>
+    <subtitle>Museum Lover/ Edtech/ Quant</subtitle>
+    <logo>https://Xyyzzz11.github.io/images/avatar.png</logo>
+    <icon>https://Xyyzzz11.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Yiyi Xie</rights>
+    <entry>
+        <title type="html"><![CDATA[About Me]]></title>
+        <id>https://Xyyzzz11.github.io/About me/</id>
+        <link href="https://Xyyzzz11.github.io/About me/">
+        </link>
+        <updated>2022-05-10T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes: Tech Critique on Moss]]></title>
+        <id>https://Xyyzzz11.github.io/notes-tech-critique-on-moss/</id>
+        <link href="https://Xyyzzz11.github.io/notes-tech-critique-on-moss/">
+        </link>
+        <updated>2020-03-20T07:14:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes: The Application of Projector and Sensors  for Archaeological Dig Simulation in AMNH Discovery Room]]></title>
+        <id>https://Xyyzzz11.github.io/notes-the-application-of-projector-and-sensors-for-archaeological-dig-simulation-in-amnh-discovery-room/</id>
+        <link href="https://Xyyzzz11.github.io/notes-the-application-of-projector-and-sensors-for-archaeological-dig-simulation-in-amnh-discovery-room/">
+        </link>
+        <updated>2020-03-13T13:18:04.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes: Discovery Room at the American Museum of Natural History (AMNH)]]></title>
+        <id>https://Xyyzzz11.github.io/notes-discovery-room-at-the-american-museum-of-natural-history-amnh/</id>
+        <link href="https://Xyyzzz11.github.io/notes-discovery-room-at-the-american-museum-of-natural-history-amnh/">
+        </link>
+        <updated>2020-03-13T13:06:01.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Constructivism, Constructionism and Critical Pedagogy]]></title>
+        <id>https://Xyyzzz11.github.io/constructivism-constructionism-and-critical-pedagogy/</id>
+        <link href="https://Xyyzzz11.github.io/constructivism-constructionism-and-critical-pedagogy/">
+        </link>
+        <updated>2020-02-26T12:09:38.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lab journal: Rube Goldberg]]></title>
+        <id>https://Xyyzzz11.github.io/lab-journal-rube-goldberg/</id>
+        <link href="https://Xyyzzz11.github.io/lab-journal-rube-goldberg/">
+        </link>
+        <updated>2020-02-11T12:33:57.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lab journal: Cardioid, the algorithmic design on processing]]></title>
+        <id>https://Xyyzzz11.github.io/lab-journal-cardioid-the-algorithmic-design-on-processing/</id>
+        <link href="https://Xyyzzz11.github.io/lab-journal-cardioid-the-algorithmic-design-on-processing/">
+        </link>
+        <updated>2020-02-05T07:15:14.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes: pencil code]]></title>
+        <id>https://Xyyzzz11.github.io/notes-pencil-code/</id>
+        <link href="https://Xyyzzz11.github.io/notes-pencil-code/">
+        </link>
+        <updated>2020-02-03T05:32:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes: Unrulyspats, roadshow in Boston]]></title>
+        <id>https://Xyyzzz11.github.io/notes-unrulyspats-roadshow/</id>
+        <link href="https://Xyyzzz11.github.io/notes-unrulyspats-roadshow/">
+        </link>
+        <updated>2020-01-31T11:13:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes: KinderLab Robotics, roadshow in Boston]]></title>
+        <id>https://Xyyzzz11.github.io/notes-kinderlab-robotics-roadshow/</id>
+        <link href="https://Xyyzzz11.github.io/notes-kinderlab-robotics-roadshow/">
+        </link>
+        <updated>2020-01-30T10:21:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lab Journal: Omni animal- Leatherback Sea Turtle]]></title>
+        <id>https://Xyyzzz11.github.io/lab-journal-omni-animal-leatherback-sea-turtle/</id>
+        <link href="https://Xyyzzz11.github.io/lab-journal-omni-animal-leatherback-sea-turtle/">
+        </link>
+        <updated>2020-01-29T12:16:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>We are required to keep a journal on our learning experience. This is my first time to do it. But I find it interesting to draw on lab experiences to connect what I've learnt.</p>
+<p>This week is about constructionism, I get to familiar with Mindstorms (1980), by Seymour Papert. It is detailed about his outlook on Piaget's theories about concrete and formal operational thinking. While in the lab session, we are required to design and build an Omni-Animal by using laser cutter to prototype two- and three-dimensional objects.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>We are required to keep a journal on our learning experience. This is my first time to do it. But I find it interesting to draw on lab experiences to connect what I've learnt.</p>
+<p>This week is about constructionism, I get to familiar with Mindstorms (1980), by Seymour Papert. It is detailed about his outlook on Piaget's theories about concrete and formal operational thinking. While in the lab session, we are required to design and build an Omni-Animal by using laser cutter to prototype two- and three-dimensional objects.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Bits and Atoms]]></title>
+        <id>https://Xyyzzz11.github.io/about/</id>
+        <link href="https://Xyyzzz11.github.io/about/">
+        </link>
+        <updated>2020-01-27T11:09:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>I first found out Beyond Bits and Atoms(BBA) at Teachers College from a friend of mine. Students have to attend both a theory-oriented class and a practice-focused lab.</p>
+<p>During the whole semester, we explore constructivism, constructionism, and critical pedagogy, as well as embodied and situated cognition, the role of media and tools, representations and models in learning, and theories of technology design.</p>
+<p>Some of my classmates are graphic designers, teachers and even our TA has a background in mechanical engineerging. It's so delighted to be connectted  with people from diffient backgrounds and share unique perspectives.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>I first found out Beyond Bits and Atoms(BBA) at Teachers College from a friend of mine. Students have to attend both a theory-oriented class and a practice-focused lab.</p>
+<p>During the whole semester, we explore constructivism, constructionism, and critical pedagogy, as well as embodied and situated cognition, the role of media and tools, representations and models in learning, and theories of technology design.</p>
+<p>Some of my classmates are graphic designers, teachers and even our TA has a background in mechanical engineerging. It's so delighted to be connectted  with people from diffient backgrounds and share unique perspectives.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes: Melissa & Doug_Secret Decoder Game Book]]></title>
+        <id>https://Xyyzzz11.github.io/notes-mandg/</id>
+        <link href="https://Xyyzzz11.github.io/notes-mandg/">
+        </link>
+        <updated>2020-01-25T08:14:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes: booklists for HUDK 4052 Data, Learning and Society]]></title>
+        <id>https://Xyyzzz11.github.io/notes-booklists-for-hudk-4052-data-learning-and-society/</id>
+        <link href="https://Xyyzzz11.github.io/notes-booklists-for-hudk-4052-data-learning-and-society/">
+        </link>
+        <updated>2019-12-09T06:06:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project- Social Network Analysis]]></title>
+        <id>https://Xyyzzz11.github.io/project-social-network-analysis/</id>
+        <link href="https://Xyyzzz11.github.io/project-social-network-analysis/">
+        </link>
+        <updated>2019-10-16T06:22:11.000Z</updated>
+    </entry>
+</feed>
